@@ -1,1 +1,2 @@
-<?php echo '_foot.php' ;?>
+</body>
+</html>
